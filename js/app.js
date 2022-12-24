@@ -326,7 +326,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  id: 'hikes',\n  type: 'http-get',\n  dependent: 'none',\n  resettable: false,\n  url: 'https://api.airtable.com/v0/appqasIqir5SS0S9s/hikes?api_key=' + \"keyBHGwF2m5iiTYzN\",\n  options: {\n    params: {}\n  }\n});\n\n//# sourceURL=webpack:///./src/data-sources/andy.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  id: 'hikes',\n  type: 'http-get',\n  dependent: 'none',\n  resettable: false,\n  url: 'https://api.airtable.com/v0/appqasIqir5SS0S9s/andy?api_key=' + \"keyBHGwF2m5iiTYzN\",\n  options: {\n    params: {}\n  }\n});\n\n//# sourceURL=webpack:///./src/data-sources/andy.js?");
 
 /***/ }),
 
@@ -386,7 +386,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  id: 'hikes',\n  type: 'http-get',\n  dependent: 'none',\n  resettable: false,\n  url: 'https://api.airtable.com/v0/appPYaWT0FgYanUre/hikes2?api_key=' + \"keyBHGwF2m5iiTYzN\",\n  options: {\n    params: {}\n  }\n});\n\n//# sourceURL=webpack:///./src/data-sources/lizzie.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  id: 'hikes',\n  type: 'http-get',\n  dependent: 'none',\n  resettable: false,\n  url: 'https://api.airtable.com/v0/appPYaWT0FgYanUre/lizzie?api_key=' + \"keyBHGwF2m5iiTYzN\",\n  options: {\n    params: {}\n  }\n});\n\n//# sourceURL=webpack:///./src/data-sources/lizzie.js?");
 
 /***/ }),
 
